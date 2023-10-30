@@ -11,5 +11,3 @@
 
 #### Blog
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://chestnutsweetpotato.tistory.com/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudgp128)](https://github.com/anuraghazra/github-readme-stats)
