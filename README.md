@@ -5,6 +5,9 @@
 
 ## Studying..
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) 
+![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) 
+
+
 
 #### Blog
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://chestnutsweetpotato.tistory.com/)
