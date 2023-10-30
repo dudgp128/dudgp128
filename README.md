@@ -9,4 +9,4 @@
 #### Blog
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://chestnutsweetpotato.tistory.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudgp128)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudgp128)](https://github.com/anuraghazra/github-readme-stats)
